@@ -49,5 +49,11 @@ Python 3.x
 ![Image](https://github.com/user-attachments/assets/3fb0868b-b667-408c-86d8-ac1b20c98a14)
 
 
-** ![Image](https://github.com/user-attachments/assets/0aa425b7-f18f-4ad2-abc5-cb18cf02a4bf)
-** ![Image](https://github.com/user-attachments/assets/5f8b3728-b561-4255-87d7-cf6bcd06009c)
+** k=10
+![Image](https://github.com/user-attachments/assets/5faa128e-b3d3-4f43-9d98-2efa860010b6)
+
+** k=12
+![Image](https://github.com/user-attachments/assets/a022a39a-21ff-4887-997a-b26bf1fff5cb)
+
+** k=14
+![Image](https://github.com/user-attachments/assets/14537032-56a6-44ae-b54d-efce1c5959e3)
